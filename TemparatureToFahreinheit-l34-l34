@@ -43,3 +43,28 @@ int main() {
 
     return 0;
 }
+Explanation:
+Conversion Functions: Two functions perform the conversion between Celsius and Fahrenheit.
+Menu: The user can select the conversion direction, enter the temperature, and get the converted result.
+
+Input:
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
+Enter your choice: 1
+Enter the temperature: 38
+38.00 Celsius = 100.40 Fahrenheit
+Output:
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
+Enter your choice: 2
+Enter the temperature: 98
+98.00 Fahrenheit = 36.67 Celsius
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
